@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "169450720732",
+    "project_id": "mobilfoods-303220",
+    "storage_bucket": "mobilfoods-303220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169450720732:android:48cbbd035eda3ea2579319",
+        "android_client_info": {
+          "package_name": "com.mobilfoods.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpA4Ok8zskehq2qvyR7vlLoJ9zaOggNg"
+        },
+        {
+          "current_key": "AIzaSyC8_oO4Hp0dwa3ZSf3ZAA5aj5RH4Wnl7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169450720732:android:124c9ab5bcb45ef8579319",
+        "android_client_info": {
+          "package_name": "com.mobilfoods.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpA4Ok8zskehq2qvyR7vlLoJ9zaOggNg"
+        },
+        {
+          "current_key": "AIzaSyC8_oO4Hp0dwa3ZSf3ZAA5aj5RH4Wnl7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169450720732:android:5155856913521b69579319",
+        "android_client_info": {
+          "package_name": "com.mobilfoods.roundsman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpA4Ok8zskehq2qvyR7vlLoJ9zaOggNg"
+        },
+        {
+          "current_key": "AIzaSyC8_oO4Hp0dwa3ZSf3ZAA5aj5RH4Wnl7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169450720732-lkhf9b1tt1bvldgdmr8tlgiqmba12cgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
