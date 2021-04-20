@@ -522,7 +522,8 @@ class _OrderWidgetState extends StateMVC<OrderWidget> with SingleTickerProviderS
                   ),
                   Offstage(
                     offstage: 2 != _tabIndex,
-                      child: _con.order.driver == null || _con.order.driver.name == ''?
+                      child: _con.order.orderStatus.id == "5" ? Column(children: [SizedBox(height: 20), Text("La orden finalizo")],):
+                      _con.order.driver == null || _con.order.driver.name == ''?
                        Column(children: [SizedBox(height: 30),
                         Text("Aún no se asigna un repartidor", style: Theme
                             .of(context)
